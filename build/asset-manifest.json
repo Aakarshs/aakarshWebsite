@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/aakarshWebsite/static/css/main.5510ff5c.chunk.css",
-    "main.js": "/aakarshWebsite/static/js/main.c974d375.chunk.js",
-    "main.js.map": "/aakarshWebsite/static/js/main.c974d375.chunk.js.map",
+    "main.js": "/aakarshWebsite/static/js/main.5e89b159.chunk.js",
+    "main.js.map": "/aakarshWebsite/static/js/main.5e89b159.chunk.js.map",
     "runtime-main.js": "/aakarshWebsite/static/js/runtime-main.70ef7748.js",
     "runtime-main.js.map": "/aakarshWebsite/static/js/runtime-main.70ef7748.js.map",
     "static/js/2.ea846929.chunk.js": "/aakarshWebsite/static/js/2.ea846929.chunk.js",
     "static/js/2.ea846929.chunk.js.map": "/aakarshWebsite/static/js/2.ea846929.chunk.js.map",
     "index.html": "/aakarshWebsite/index.html",
-    "precache-manifest.e1952e5256584b626b139be19402678f.js": "/aakarshWebsite/precache-manifest.e1952e5256584b626b139be19402678f.js",
+    "precache-manifest.84ac269f209b87b379dc16de00304070.js": "/aakarshWebsite/precache-manifest.84ac269f209b87b379dc16de00304070.js",
     "service-worker.js": "/aakarshWebsite/service-worker.js",
     "static/css/main.5510ff5c.chunk.css.map": "/aakarshWebsite/static/css/main.5510ff5c.chunk.css.map",
     "static/media/1.png": "/aakarshWebsite/static/media/1.cf25dd82.png",
@@ -55,6 +55,6 @@
     "static/js/runtime-main.70ef7748.js",
     "static/js/2.ea846929.chunk.js",
     "static/css/main.5510ff5c.chunk.css",
-    "static/js/main.c974d375.chunk.js"
+    "static/js/main.5e89b159.chunk.js"
   ]
 }

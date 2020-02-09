@@ -120,7 +120,7 @@ export default class Welcome extends React.Component {
             </div>
               <div className="home-button-container">
                 <div className="button" onClick={() => { this.show() }}> Click Here </div>
-                <div className="button-full"><a className="button-url" target="_blank" href='https://drive.google.com/file/d/1PvzMSNzZi61jjj1Ufw7a1svDeevn4f7O/view?usp=sharing'>Download Resume</a></div>
+                <div className="button-full"><a className="button-url" target="_blank" href='https://drive.google.com/open?id=1uP-AUp3ZrmxxEC1r2ezVnGjRhqFnZgXr'>Download Resume</a></div>
               </div>
             </div>
           </div>

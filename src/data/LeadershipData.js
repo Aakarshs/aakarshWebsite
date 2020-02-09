@@ -1,5 +1,5 @@
 export const leadership_list = [{
-    split: 5,
+    split: 4,
     id: 1,
     type: 'Experiences',
     logo: 'nadalogo',
@@ -132,17 +132,5 @@ export const leadership_list = [{
     ~Assisted methane hub into setting up a sustainable, green initiative to reduce earlham operating costs.
      `,
     skillList: []
-},
-{
-    id: 8,
-    type: 'Experiences',
-    logo: 'lamartiniere',
-    name: "La Martiniere College",
-    position: "Web Developer",
-    date: "21st Jan to 21 Oct",
-    link: [{ name: "enFocus", url: "https://sbenfocus.org/" }],
-    description: `Designed, developed, and maintained websites for several departments and organizations on and off campus
-    `,
-    skillList: ["HTML", "Javascript","CSS"]
 },
 ]
