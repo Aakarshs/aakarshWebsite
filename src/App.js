@@ -83,7 +83,7 @@ export default class Welcome extends React.Component {
             </div>
 
             <div>
-              <a className="download-resume-button" href='https://drive.google.com/file/d/1PvzMSNzZi61jjj1Ufw7a1svDeevn4f7O/view?usp=sharing'>Download Resume</a>
+              <a className="download-resume-button" href='https://drive.google.com/open?id=1uP-AUp3ZrmxxEC1r2ezVnGjRhqFnZgXr'>Download Resume</a>
             </div>
           </div>
         </div>

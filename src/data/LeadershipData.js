@@ -55,19 +55,6 @@ export const leadership_list = [{
     skillList: ["OfficeJS","ExpressJS","AWS SQS","AWS Lambda","AWS S3","Sharepoint","jQuery","C#","Javascript"]
 },
 {
-    id: 4,
-    type: 'Experiences',
-    logo: 'enfocus',
-    name: "enFocus",
-    position: "UI/UX Design Intern",
-    date: "21st Jan to 21 Oct",
-    link: [{ name: "enFocus", url: "https://sbenfocus.org/" }],
-    description: `Worked with a healthcare startup called Healthy Points to create user experience and 
-    user interface designs for their mobile application. 
-    `,
-    skillList: []
-},
-{
     id: 5,
     type: 'Experiences',
     logo: 'oxaro',
